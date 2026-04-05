@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/mohammed-sofiyan-634644288/">💼 LinkedIn</a> •
   <a href="https://github.com/sofiyan7">💻 GitHub</a> •
   <a href="https://www.codechef.com/users/sofiyan07">🍽 CodeChef</a> •
-  <a href="https://leetcode.com/u/m_sofiyan/">⚡ LeetCode</a>
 </p>
 
 ---

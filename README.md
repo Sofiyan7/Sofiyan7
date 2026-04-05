@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech CSE (Data Science) @ VIT Chennai (CGPA: 8.69)
+* 🎓 B.Tech CSE (Data Science) @ VIT Chennai
 * 🤖 Built AI systems using **GANs, RAG, and Deep Learning**
 * 🧠 Strong in **DSA, System Design & Backend Engineering**
 * ⚡ Love building **real-world scalable AI products**

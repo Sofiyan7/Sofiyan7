@@ -22,7 +22,7 @@
 
 ### 💻 Languages
 
-`Java` `C++` `Python` `JavaScript` `TypeScript` `SQL`
+`Java` `C++` `Python` `JavaScript` `TypeScript` `SQL` `Go`
 
 ### ⚙️ Frameworks & Tools
 

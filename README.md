@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohammed Sofiyan</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Sofiyan</h1>
 <h3 align="center">AI Engineer | Full-Stack Developer | Building GenAI & Scalable Systems</h3>
 
 <p align="center">

@@ -39,7 +39,3 @@
 `Git` `GitHub` `Postman` `Power BI` `REST APIs` `GraphQL`
 
 ---
-
-## ⚡ Fun Fact
-
-I love turning complex ideas into real-world products 🚀

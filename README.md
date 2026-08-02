@@ -40,15 +40,6 @@
 
 ---
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofiyan7&theme=tokyonight" />
-</p>
-
----
-
 ## ⚡ Fun Fact
 
 I love turning complex ideas into real-world products 🚀

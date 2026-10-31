@@ -22,7 +22,7 @@
 
 ### 💻 Languages
 
-`Java` `C++` `Python` `JavaScript` `TypeScript` `SQL` `Go`
+`Java` `C++` `Python` `JavaScript` `TypeScript` `SQL`
 
 ### ⚙️ Frameworks & Tools
 
@@ -36,6 +36,6 @@
 
 ### 🛠 Tools
 
-`Git` `GitHub` `Postman` `Power BI` `REST APIs` `GraphQL`
+`Git` `GitHub` `Postman` `Power BI` `REST APIs`
 
 ---
